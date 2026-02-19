@@ -1,0 +1,13 @@
+# Build artifacts
+prog
+gen[0-9]*
+corrupt
+corrupt.c
+
+# Dev-only files 
+proto.c
+gen_q.py
+prog_boot.c
+
+# OS files
+.DS_Store
